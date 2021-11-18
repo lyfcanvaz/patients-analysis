@@ -2,6 +2,7 @@
 '''
 This module counts the number of lines in standard input.
 Input: A string from the system's std input
+Output: A string with total number of lines
 '''
 
 import sys
